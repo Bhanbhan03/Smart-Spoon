@@ -1,0 +1,308 @@
+food,calories,protein,carbs,fats,category,meal_type,diet_type,allergens,price_inr
+Oatmeal,389,16.9,66.3,6.9,Grains,Breakfast,Vegan,Gluten,15
+Eggs (whole),143,12.6,0.7,9.5,Protein,Breakfast,Vegetarian,Eggs,5
+Whole Wheat Bread,247,13.2,41.3,3.4,Grains,Breakfast Lunch Snack,Vegan,Gluten,30
+Banana,89,1.1,22.8,0.3,Fruits,Breakfast Snack,Vegan,None,5
+Greek Yogurt,59,10.2,3.6,0.4,Dairy,Breakfast Snack,Vegetarian,Dairy,10
+Chicken Breast,165,31,0,3.6,Protein,Lunch Dinner,Non-Vegetarian,None,10
+Salmon,208,20.4,0,13.4,Protein,Lunch Dinner,Non-Vegetarian,Seafood,20
+Tofu,76,8.1,1.9,4.8,Protein,Lunch Dinner,Vegan,Soy,25
+Brown Rice,112,2.6,23.5,0.9,Grains,Lunch Dinner,Vegan,None,15
+Quinoa,120,4.4,21.3,1.9,Grains,Lunch Dinner,Vegan,None,40
+Sweet Potato,86,1.6,20.1,0.1,Vegetables,Lunch Dinner,Vegan,None,10
+Broccoli,34,2.8,6.6,0.4,Vegetables,Lunch Dinner,Vegan,None,5
+Spinach,23,2.9,3.6,0.4,Vegetables,Lunch Dinner,Vegan,None,10
+Avocado,160,2,8.5,14.7,Fruits,Lunch Dinner Snack,Vegan,None,10
+Almonds,579,21.2,21.7,49.9,Nuts,Snack,Vegan,Nuts,40
+Peanut Butter,588,25,20,50,Nuts,Breakfast Snack,Vegan,Nuts,20
+Apple,52,0.3,13.8,0.2,Fruits,Snack,Vegan,None,20
+Orange,47,0.9,11.8,0.1,Fruits,Breakfast Snack,Vegan,None,15
+Milk (whole),61,3.2,4.8,3.3,Dairy,Breakfast Snack,Vegetarian,Dairy,9
+Cheese (cheddar),402,25,1.3,33.1,Dairy,Lunch Dinner Snack,Vegetarian,Dairy,40
+Lentils,116,9,20.1,0.4,Legumes,Lunch Dinner,Vegan,None,8
+Chickpeas,164,8.9,27.4,2.6,Legumes,Lunch Dinner Snack,Vegan,None,10
+Black Beans,132,8.9,23.7,0.5,Legumes,Lunch Dinner,Vegan,None,8
+Beef (ground),250,26.1,0,15.4,Protein,Lunch Dinner,Non-Vegetarian,None,10
+Pasta (whole wheat),124,5.3,26.5,0.9,Grains,Lunch Dinner,Vegan,Gluten,30
+Olive Oil,884,0,0,100,Fats,Lunch Dinner,Vegan,None,20
+Butter,717,0.9,0.1,81.1,Fats,Breakfast Lunch Dinner,Vegetarian,Dairy,10
+Honey,304,0.3,82.4,0,Sweeteners,Breakfast Snack,Vegetarian,None,5
+Dark Chocolate,598,7.8,45.9,43.1,Sweets,Snack,Vegetarian,Dairy,20
+Tomato,18,0.9,3.9,0.2,Vegetables,Lunch Dinner,Vegan,None,5
+Cucumber,15,0.7,3.6,0.1,Vegetables,Lunch Dinner Snack,Vegan,None,5
+Bell Pepper,31,1,7.5,0.3,Vegetables,Lunch Dinner,Vegan,None,15
+Potato,77,2,17.5,0.1,Vegetables,Lunch Dinner,Vegan,None,4
+Strawberries,32,0.7,7.7,0.3,Fruits,Breakfast Snack,Vegan,None,5
+Blueberries,57,0.7,14.5,0.3,Fruits,Breakfast Snack,Vegan,None,5
+Soy Milk,54,3.3,6.3,1.8,Dairy,Breakfast Snack,Vegan,Soy,20
+Almond Milk,15,0.6,0.6,1.1,Dairy,Breakfast Snack,Vegan,Nuts,10
+Turkey Breast,104,22.6,0,0.7,Protein,Lunch Dinner,Non-Vegetarian,None,10
+Shrimp,99,20.9,0,1.1,Protein,Lunch Dinner,Non-Vegetarian,Seafood,15
+Tuna,108,23.5,0,0.9,Protein,Lunch Dinner,Non-Vegetarian,Seafood,12
+Walnuts,654,15.2,13.7,65.2,Nuts,Snack,Vegan,Nuts,60
+Chia Seeds,486,16.5,42.1,30.7,Seeds,Breakfast Snack,Vegan,None,40
+Flaxseed,534,18.3,28.9,42.2,Seeds,Breakfast Snack,Vegan,None,30
+Hummus,166,7.9,14.3,9.6,Legumes,Lunch Snack,Vegan,None,10
+Granola,471,10.2,68.2,19.5,Grains,Breakfast Snack,Vegan,Gluten Nuts,20
+Popcorn,387,12.9,77.8,4.5,Grains,Snack,Vegan,None,10
+Rice Cakes,387,7.1,80.9,1,Grains,Snack,Vegan,None,10
+Cottage Cheese,98,11.1,3.4,4.3,Dairy,Breakfast Lunch Snack,Vegetarian,Dairy,10
+Peanuts,567,25.8,16.1,49.2,Nuts,Snack,Vegan,Nuts,20
+Carrots,41,0.9,9.6,0.2,Vegetables,Lunch Dinner Snack,Vegan,None,5
+Celery,16,0.7,3,0.2,Vegetables,Lunch Dinner Snack,Vegan,None,5
+Cauliflower,25,1.9,5,0.3,Vegetables,Lunch Dinner,Vegan,None,15
+Mushrooms,22,3.1,3.3,0.3,Vegetables,Lunch Dinner,Vegan,None,20
+Pineapple,50,0.5,13.1,0.1,Fruits,Breakfast Snack,Vegan,None,20
+Mango,60,0.8,14.9,0.4,Fruits,Breakfast Snack,Vegan,None,25
+Grapes,69,0.7,18.1,0.2,Fruits,Snack,Vegan,None,10
+Watermelon,30,0.6,7.6,0.2,Fruits,Snack,Vegan,None,15
+Kiwi,61,1.1,14.6,0.5,Fruits,Breakfast Snack,Vegan,None,5
+Bagel,250,10,48,2.5,Grains,Breakfast,Vegan,Gluten,30
+Pancakes,227,6.3,28.4,9.9,Grains,Breakfast,Vegetarian,Gluten Eggs Dairy,20
+Waffles,218,5.9,28.5,9.2,Grains,Breakfast,Vegetarian,Gluten Eggs Dairy,20
+Bacon,541,37.4,1.4,41.7,Protein,Breakfast,Non-Vegetarian,None,10
+Sausage,229,14.4,1.5,17.4,Protein,Breakfast,Non-Vegetarian,None,10
+Croissant,406,8.2,45.8,21.1,Grains,Breakfast,Vegetarian,Gluten Dairy,20
+Protein Bar,380,20,36,13,Protein,Snack,Vegetarian,Dairy Nuts Soy,20
+Protein Shake,170,25,9,3,Protein,Breakfast Snack,Vegetarian,Dairy Soy,10
+Energy Drink,112,0,28,0,Beverages,Snack,Vegan,None,5
+Orange Juice,45,0.7,10.4,0.2,Beverages,Breakfast,Vegan,None,10
+Smoothie (fruit),130,1.5,30,1,Beverages,Breakfast Snack,Vegan,None,10
+Green Smoothie,140,3,30,1.5,Beverages,Breakfast Snack,Vegan,None,10
+Coffee (black),2,0.1,0,0,Beverages,Breakfast,Vegan,None,5
+Tea,2,0,0.4,0,Beverages,Breakfast Snack,Vegan,None,5
+Pizza (cheese),266,10.4,33,10.1,Mixed,Lunch Dinner,Vegetarian,Gluten Dairy,20
+Burger (beef),354,20,27.8,16.2,Mixed,Lunch Dinner,Non-Vegetarian,Gluten,10
+Sandwich (turkey),290,19.2,29.1,10.4,Mixed,Lunch,Non-Vegetarian,Gluten,10
+Salad (garden),40,2,8,0.5,Vegetables,Lunch Dinner,Vegan,None,5
+Salad (chicken),150,23,5,5,Mixed,Lunch Dinner,Non-Vegetarian,None,10
+Soup (vegetable),72,2.5,12.9,1.7,Mixed,Lunch Dinner,Vegan,None,5
+Soup (chicken noodle),75,4,9,2,Mixed,Lunch Dinner,Non-Vegetarian,Gluten,10
+Stir-fry (vegetable),120,3,18,5,Mixed,Lunch Dinner,Vegan,None,5
+Stir-fry (chicken),220,23,18,7,Mixed,Lunch Dinner,Non-Vegetarian,None,10
+Curry (vegetable),180,4,22,9,Mixed,Lunch Dinner,Vegan,None,10
+Curry (chicken),270,23,15,13,Mixed,Lunch Dinner,Non-Vegetarian,None,10
+Pasta (tomato sauce),200,7,38,3,Mixed,Lunch Dinner,Vegan,Gluten,10
+Pasta (cream sauce),350,10,40,15,Mixed,Lunch Dinner,Vegetarian,Gluten Dairy,15
+Rice Bowl (vegetable),350,9,65,6,Mixed,Lunch Dinner,Vegan,None,10
+Rice Bowl (chicken),450,30,60,10,Mixed,Lunch Dinner,Non-Vegetarian,None,10
+Tacos (beef),210,12,20,10,Mixed,Lunch Dinner,Non-Vegetarian,Gluten,10
+Burrito (bean),380,15,65,5,Mixed,Lunch Dinner,Vegetarian,Gluten,10
+Sushi (vegetable),300,6,60,2,Mixed,Lunch Dinner,Vegan,None,10
+Sushi (fish),350,20,55,5,Mixed,Lunch Dinner,Non-Vegetarian,Seafood,15
+Tofu Stir-fry,220,15,22,9,Mixed,Lunch Dinner,Vegan,Soy,10
+Lentil Soup,120,9,20,1,Mixed,Lunch Dinner,Vegan,None,5
+Veggie Burger,240,12,30,8,Mixed,Lunch Dinner,Vegan,Gluten Soy,10
+Fish (white),100,20,0,2,Protein,Lunch Dinner,Non-Vegetarian,Seafood,10
+Pork Chop,200,25,0,12,Protein,Lunch Dinner,Non-Vegetarian,None,10
+Lamb,250,21,0,18,Protein,Lunch Dinner,Non-Vegetarian,None,10
+Beef Steak,270,28,0,17,Protein,Lunch Dinner,Non-Vegetarian,None,10
+Tempeh,195,19,9,11,Protein,Lunch Dinner,Vegan,Soy,10
+Seitan,370,75,14,2,Protein,Lunch Dinner,Vegan,Gluten,10
+Beyond Burger,250,20,8,18,Protein,Lunch Dinner,Vegan,Soy,10
+Impossible Burger,240,19,9,14,Protein,Lunch Dinner,Vegan,Soy,10
+Trail Mix,510,15,48,33,Mixed,Snack,Vegan,Nuts,10
+Fruit Salad,70,1,17,0,Fruits,Breakfast Snack,Vegan,None,5
+Yogurt Parfait,210,11,30,6,Mixed,Breakfast Snack,Vegetarian,Dairy,10
+Pita Bread,165,5.5,33,1.7,Grains,Lunch Dinner,Vegan,Gluten,20
+Rice (White),130,2.7,28.2,0.3,Grains,Lunch Dinner,Vegan,None,5
+Chapati/Roti,120,3.5,20.5,2.0,Grains,Breakfast Lunch Dinner,Vegan,Gluten,3
+Paratha,175,4.2,27.3,5.6,Grains,Breakfast Lunch Dinner,Vegetarian,Gluten Dairy,10
+Poori,101,2.2,14.4,4.3,Grains,Breakfast Lunch,Vegetarian,Gluten,8
+Idli,39,2.0,8.0,0.1,Grains,Breakfast,Vegan,None,5
+Dosa (Plain),120,3.0,20.0,3.5,Grains,Breakfast Lunch,Vegan,None,15
+Upma,140,3.5,22.5,5.0,Grains,Breakfast,Vegetarian,None,12
+Uttapam,150,4.0,24.0,4.5,Grains,Breakfast Lunch,Vegetarian,None,20
+Dhokla,160,5.0,20.0,7.0,Grains,Breakfast Snack,Vegetarian,None,15
+Dal (Yellow),116,9.0,20.0,0.4,Legumes,Lunch Dinner,Vegan,None,8
+Dal (Toor),130,7.0,23.0,0.5,Legumes,Lunch Dinner,Vegan,None,10
+Dal Makhani,150,9.0,22.0,5.0,Legumes,Lunch Dinner,Vegetarian,Dairy,25
+Chana Masala,180,8.0,27.0,5.0,Legumes,Lunch Dinner,Vegan,None,20
+Rajma (Kidney Beans),127,8.7,22.8,0.5,Legumes,Lunch Dinner,Vegan,None,15
+Paneer Butter Masala,280,15.0,6.0,22.0,Dairy,Lunch Dinner,Vegetarian,Dairy,35
+Paneer Tikka,200,14.0,4.0,14.0,Dairy,Lunch Dinner Snack,Vegetarian,Dairy,30
+Paneer Bhurji,220,16.0,4.5,16.0,Dairy,Lunch Dinner,Vegetarian,Dairy,25
+Palak Paneer,180,11.0,8.0,12.0,Mixed,Lunch Dinner,Vegetarian,Dairy,30
+Matar Paneer,190,10.0,14.0,11.0,Mixed,Lunch Dinner,Vegetarian,Dairy,25
+Aloo Gobi,150,4.0,20.0,7.0,Vegetables,Lunch Dinner,Vegan,None,18
+Bhindi Masala (Okra),120,3.5,10.0,8.0,Vegetables,Lunch Dinner,Vegan,None,15
+Baingan Bharta (Eggplant),135,3.0,12.0,9.0,Vegetables,Lunch Dinner,Vegan,None,18
+Vegetable Korma,165,4.0,15.0,10.0,Vegetables,Lunch Dinner,Vegetarian,Dairy Nuts,22
+Mixed Vegetable Curry,140,3.5,14.0,8.0,Vegetables,Lunch Dinner,Vegan,None,20
+Chole Bhature,350,12.0,45.0,15.0,Mixed,Lunch Dinner,Vegetarian,Gluten,25
+Pav Bhaji,250,7.0,35.0,8.0,Mixed,Lunch Dinner Snack,Vegetarian,Gluten Dairy,20
+Samosa,260,5.0,30.0,14.0,Snacks,Snack,Vegetarian,Gluten,15
+Pakora,180,5.0,14.0,12.0,Snacks,Snack,Vegetarian,Gluten,12
+Kachori,220,5.0,24.0,12.0,Snacks,Snack,Vegetarian,Gluten,15
+Vada,160,6.0,17.0,8.0,Snacks,Breakfast Snack,Vegetarian,None,10
+Dahi Vada,140,6.0,15.0,6.0,Snacks,Snack,Vegetarian,Dairy,15
+Bhel Puri,180,5.0,28.0,5.0,Snacks,Snack,Vegan,Gluten,15
+Pani Puri,120,2.0,22.0,3.0,Snacks,Snack,Vegan,Gluten,10
+Sev Puri,160,3.0,25.0,6.0,Snacks,Snack,Vegetarian,Gluten,12
+Aloo Paratha,220,5.0,35.0,7.0,Grains,Breakfast Lunch,Vegetarian,Gluten Dairy,15
+Gobi Paratha,200,5.0,30.0,7.0,Grains,Breakfast Lunch,Vegetarian,Gluten Dairy,15
+Methi Paratha,180,5.0,25.0,6.0,Grains,Breakfast Lunch,Vegetarian,Gluten Dairy,15
+Paneer Paratha,240,10.0,27.0,10.0,Grains,Breakfast Lunch,Vegetarian,Gluten Dairy,20
+Curd (Yogurt),59,3.2,4.8,3.3,Dairy,Breakfast Lunch Dinner Snack,Vegetarian,Dairy,10
+Lassi (Sweet),130,4.0,20.0,3.0,Dairy,Breakfast Snack,Vegetarian,Dairy,15
+Chaas (Buttermilk),40,2.0,3.0,1.5,Dairy,Lunch Dinner Snack,Vegetarian,Dairy,8
+Raita,80,2.5,7.0,4.0,Dairy,Lunch Dinner,Vegetarian,Dairy,12
+Paneer,265,18.3,3.1,20.8,Dairy,Lunch Dinner,Vegetarian,Dairy,40
+Ghee,900,0,0,100,Fats,Breakfast Lunch Dinner,Vegetarian,Dairy,20
+Coconut Chutney,120,2.0,5.0,10.0,Condiments,Breakfast Lunch,Vegan,None,5
+Mint Chutney,50,1.5,6.0,3.0,Condiments,Lunch Dinner,Vegan,None,5
+Tamarind Chutney,70,0.5,17.0,0.2,Condiments,Lunch Dinner Snack,Vegan,None,5
+Sambar,80,3.0,13.0,2.0,Mixed,Breakfast Lunch Dinner,Vegan,None,12
+Rasam,60,1.5,10.0,2.0,Mixed,Lunch Dinner,Vegan,None,8
+Khichdi,170,6.0,30.0,3.0,Mixed,Lunch Dinner,Vegetarian,None,15
+Pongal,180,6.0,28.0,5.0,Mixed,Breakfast,Vegetarian,Dairy,15
+Pulao/Pilaf,220,5.0,35.0,7.0,Grains,Lunch Dinner,Vegetarian,None,20
+Biryani (Vegetable),250,6.0,40.0,8.0,Grains,Lunch Dinner,Vegetarian,None,25
+Jeera Rice,180,3.0,32.0,5.0,Grains,Lunch Dinner,Vegetarian,None,15
+Poha,150,3.0,27.0,5.0,Grains,Breakfast Snack,Vegetarian,None,10
+Sabudana Khichdi,240,2.0,45.0,7.0,Grains,Breakfast Snack,Vegetarian,None,15
+Sevai/Vermicelli Upma,145,3.0,27.0,3.0,Grains,Breakfast,Vegetarian,Gluten,15
+Misal Pav,250,10.0,35.0,7.0,Mixed,Breakfast Lunch,Vegetarian,Gluten,20
+Usal,140,8.0,20.0,3.0,Legumes,Breakfast Lunch,Vegan,None,15
+Kanda Poha,150,3.0,27.0,5.0,Grains,Breakfast,Vegetarian,None,12
+Saag (Spinach Curry),120,6.0,7.0,8.0,Vegetables,Lunch Dinner,Vegan,None,15
+Kadhi,120,3.0,15.0,5.0,Dairy,Lunch Dinner,Vegetarian,Dairy,15
+Moong Dal Halwa,290,5.0,35.0,15.0,Sweets,Dessert,Vegetarian,Dairy,25
+Gulab Jamun,175,2.0,20.0,10.0,Sweets,Dessert,Vegetarian,Dairy Gluten,10
+Jalebi,150,1.0,25.0,5.0,Sweets,Dessert,Vegetarian,Gluten,8
+Rasgulla,120,2.0,22.0,2.0,Sweets,Dessert,Vegetarian,Dairy,10
+Kulfi,180,4.0,20.0,10.0,Sweets,Dessert,Vegetarian,Dairy,15
+Kheer/Payasam,160,3.0,25.0,5.0,Sweets,Dessert,Vegetarian,Dairy,15
+Shrikhand,220,6.0,30.0,8.0,Sweets,Dessert,Vegetarian,Dairy,20
+Ladoo,170,3.0,25.0,7.0,Sweets,Dessert,Vegetarian,Dairy Nuts,10
+Barfi,175,3.0,22.0,8.0,Sweets,Dessert,Vegetarian,Dairy Nuts,15
+Mysore Pak,220,3.0,25.0,12.0,Sweets,Dessert,Vegetarian,Dairy,15
+Papaya,43,0.5,10.8,0.3,Fruits,Breakfast,Vegan,None,20
+Guava,68,2.6,14.3,1.0,Fruits,Snack,Vegan,None,12
+Pomegranate,83,1.7,18.7,1.2,Fruits,Snack,Vegan,None,30
+Chikoo/Sapota,83,0.4,19.9,1.1,Fruits,Snack,Vegan,None,15
+Onion,40,1.1,9.3,0.1,Vegetables,Lunch Dinner,Vegan,None,4
+Green Beans,31,1.8,7.1,0.2,Vegetables,Lunch Dinner,Vegan,None,10
+Bottle Gourd (Lauki),12,0.6,2.5,0.1,Vegetables,Lunch Dinner,Vegan,None,8
+Ridge Gourd (Turai),18,0.5,3.9,0.1,Vegetables,Lunch Dinner,Vegan,None,10
+Bitter Gourd (Karela),20,1.0,4.3,0.2,Vegetables,Lunch Dinner,Vegan,None,12
+Cabbage,25,1.3,5.8,0.1,Vegetables,Lunch Dinner,Vegan,None,10
+Brinjal/Eggplant,25,1.0,6.0,0.2,Vegetables,Lunch Dinner,Vegan,None,10
+Fenugreek Leaves (Methi),23,4.4,3.3,0.9,Vegetables,Lunch Dinner,Vegan,None,10
+Amaranth Leaves (Chaulai),23,3.5,4.0,0.3,Vegetables,Lunch Dinner,Vegan,None,10
+Mustard Greens (Sarson),27,2.7,4.7,0.2,Vegetables,Lunch Dinner,Vegan,None,10
+Lotus Stem (Kamal Kakdi),74,2.6,16.0,0.1,Vegetables,Lunch Dinner,Vegan,None,20
+Jackfruit (Raw),40,1.5,9.4,0.1,Vegetables,Lunch Dinner,Vegan,None,15
+Arbi/Colocasia,77,1.5,19.0,0.2,Vegetables,Lunch Dinner,Vegan,None,15
+Yam,118,1.5,27.9,0.2,Vegetables,Lunch Dinner,Vegan,None,15
+Peas,81,5.4,14.5,0.4,Vegetables,Lunch Dinner,Vegan,None,15
+Corn,86,3.2,19.0,1.2,Vegetables,Lunch Dinner Snack,Vegan,None,10
+Mushroom,22,3.1,3.3,0.3,Vegetables,Lunch Dinner,Vegan,None,20
+Cashews,553,18.2,30.2,44.0,Nuts,Snack,Vegan,Nuts,50
+food,calories,protein,carbs,fats,category,meal_type,diet_type,allergens
+Oatmeal,389,16.9,66.3,6.9,Grains,Breakfast,Vegan,Gluten
+Eggs (whole),143,12.6,0.7,9.5,Protein,Breakfast,Vegetarian,Eggs
+Whole Wheat Bread,247,13.2,41.3,3.4,Grains,Breakfast Lunch Snack,Vegan,Gluten
+Banana,89,1.1,22.8,0.3,Fruits,Breakfast Snack,Vegan,None
+Greek Yogurt,59,10.2,3.6,0.4,Dairy,Breakfast Snack,Vegetarian,Dairy
+Chicken Breast,165,31,0,3.6,Protein,Lunch Dinner,Non-Vegetarian,None
+Salmon,208,20.4,0,13.4,Protein,Lunch Dinner,Non-Vegetarian,Seafood
+Tofu,76,8.1,1.9,4.8,Protein,Lunch Dinner,Vegan,Soy
+Brown Rice,112,2.6,23.5,0.9,Grains,Lunch Dinner,Vegan,None
+Quinoa,120,4.4,21.3,1.9,Grains,Lunch Dinner,Vegan,None
+Sweet Potato,86,1.6,20.1,0.1,Vegetables,Lunch Dinner,Vegan,None
+Broccoli,34,2.8,6.6,0.4,Vegetables,Lunch Dinner,Vegan,None
+Spinach,23,2.9,3.6,0.4,Vegetables,Lunch Dinner,Vegan,None
+Avocado,160,2,8.5,14.7,Fruits,Lunch Dinner Snack,Vegan,None
+Almonds,579,21.2,21.7,49.9,Nuts,Snack,Vegan,Nuts
+Peanut Butter,588,25,20,50,Nuts,Breakfast Snack,Vegan,Nuts
+Apple,52,0.3,13.8,0.2,Fruits,Snack,Vegan,None
+Orange,47,0.9,11.8,0.1,Fruits,Breakfast Snack,Vegan,None
+Milk (whole),61,3.2,4.8,3.3,Dairy,Breakfast Snack,Vegetarian,Dairy
+Cheese (cheddar),402,25,1.3,33.1,Dairy,Lunch Dinner Snack,Vegetarian,Dairy
+Lentils,116,9,20.1,0.4,Legumes,Lunch Dinner,Vegan,None
+Chickpeas,164,8.9,27.4,2.6,Legumes,Lunch Dinner Snack,Vegan,None
+Black Beans,132,8.9,23.7,0.5,Legumes,Lunch Dinner,Vegan,None
+Beef (ground),250,26.1,0,15.4,Protein,Lunch Dinner,Non-Vegetarian,None
+Pasta (whole wheat),124,5.3,26.5,0.9,Grains,Lunch Dinner,Vegan,Gluten
+Olive Oil,884,0,0,100,Fats,Lunch Dinner,Vegan,None
+Butter,717,0.9,0.1,81.1,Fats,Breakfast Lunch Dinner,Vegetarian,Dairy
+Honey,304,0.3,82.4,0,Sweeteners,Breakfast Snack,Vegetarian,None
+Dark Chocolate,598,7.8,45.9,43.1,Sweets,Snack,Vegetarian,Dairy
+Tomato,18,0.9,3.9,0.2,Vegetables,Lunch Dinner,Vegan,None
+Cucumber,15,0.7,3.6,0.1,Vegetables,Lunch Dinner Snack,Vegan,None
+Bell Pepper,31,1,7.5,0.3,Vegetables,Lunch Dinner,Vegan,None
+Potato,77,2,17.5,0.1,Vegetables,Lunch Dinner,Vegan,None
+Strawberries,32,0.7,7.7,0.3,Fruits,Breakfast Snack,Vegan,None
+Blueberries,57,0.7,14.5,0.3,Fruits,Breakfast Snack,Vegan,None
+Soy Milk,54,3.3,6.3,1.8,Dairy,Breakfast Snack,Vegan,Soy
+Almond Milk,15,0.6,0.6,1.1,Dairy,Breakfast Snack,Vegan,Nuts
+Turkey Breast,104,22.6,0,0.7,Protein,Lunch Dinner,Non-Vegetarian,None
+Shrimp,99,20.9,0,1.1,Protein,Lunch Dinner,Non-Vegetarian,Seafood
+Tuna,108,23.5,0,0.9,Protein,Lunch Dinner,Non-Vegetarian,Seafood
+Walnuts,654,15.2,13.7,65.2,Nuts,Snack,Vegan,Nuts
+Chia Seeds,486,16.5,42.1,30.7,Seeds,Breakfast Snack,Vegan,None
+Flaxseed,534,18.3,28.9,42.2,Seeds,Breakfast Snack,Vegan,None
+Hummus,166,7.9,14.3,9.6,Legumes,Lunch Snack,Vegan,None
+Granola,471,10.2,68.2,19.5,Grains,Breakfast Snack,Vegan,Gluten Nuts
+Popcorn,387,12.9,77.8,4.5,Grains,Snack,Vegan,None
+Rice Cakes,387,7.1,80.9,1,Grains,Snack,Vegan,None
+Cottage Cheese,98,11.1,3.4,4.3,Dairy,Breakfast Lunch Snack,Vegetarian,Dairy
+Peanuts,567,25.8,16.1,49.2,Nuts,Snack,Vegan,Nuts
+Carrots,41,0.9,9.6,0.2,Vegetables,Lunch Dinner Snack,Vegan,None
+Celery,16,0.7,3,0.2,Vegetables,Lunch Dinner Snack,Vegan,None
+Cauliflower,25,1.9,5,0.3,Vegetables,Lunch Dinner,Vegan,None
+Mushrooms,22,3.1,3.3,0.3,Vegetables,Lunch Dinner,Vegan,None
+Pineapple,50,0.5,13.1,0.1,Fruits,Breakfast Snack,Vegan,None
+Mango,60,0.8,14.9,0.4,Fruits,Breakfast Snack,Vegan,None
+Grapes,69,0.7,18.1,0.2,Fruits,Snack,Vegan,None
+Watermelon,30,0.6,7.6,0.2,Fruits,Snack,Vegan,None
+Kiwi,61,1.1,14.6,0.5,Fruits,Breakfast Snack,Vegan,None
+Bagel,250,10,48,2.5,Grains,Breakfast,Vegan,Gluten
+Pancakes,227,6.3,28.4,9.9,Grains,Breakfast,Vegetarian,Gluten Eggs Dairy
+Waffles,218,5.9,28.5,9.2,Grains,Breakfast,Vegetarian,Gluten Eggs Dairy
+Bacon,541,37.4,1.4,41.7,Protein,Breakfast,Non-Vegetarian,None
+Sausage,229,14.4,1.5,17.4,Protein,Breakfast,Non-Vegetarian,None
+Croissant,406,8.2,45.8,21.1,Grains,Breakfast,Vegetarian,Gluten Dairy
+Protein Bar,380,20,36,13,Protein,Snack,Vegetarian,Dairy Nuts Soy
+Protein Shake,170,25,9,3,Protein,Breakfast Snack,Vegetarian,Dairy Soy
+Energy Drink,112,0,28,0,Beverages,Snack,Vegan,None
+Orange Juice,45,0.7,10.4,0.2,Beverages,Breakfast,Vegan,None
+Smoothie (fruit),130,1.5,30,1,Beverages,Breakfast Snack,Vegan,None
+Green Smoothie,140,3,30,1.5,Beverages,Breakfast Snack,Vegan,None
+Coffee (black),2,0.1,0,0,Beverages,Breakfast,Vegan,None
+Tea,2,0,0.4,0,Beverages,Breakfast Snack,Vegan,None
+Pizza (cheese),266,10.4,33,10.1,Mixed,Lunch Dinner,Vegetarian,Gluten Dairy
+Burger (beef),354,20,27.8,16.2,Mixed,Lunch Dinner,Non-Vegetarian,Gluten
+Sandwich (turkey),290,19.2,29.1,10.4,Mixed,Lunch,Non-Vegetarian,Gluten
+Salad (garden),40,2,8,0.5,Vegetables,Lunch Dinner,Vegan,None
+Salad (chicken),150,23,5,5,Mixed,Lunch Dinner,Non-Vegetarian,None
+Soup (vegetable),72,2.5,12.9,1.7,Mixed,Lunch Dinner,Vegan,None
+Soup (chicken noodle),75,4,9,2,Mixed,Lunch Dinner,Non-Vegetarian,Gluten
+Stir-fry (vegetable),120,3,18,5,Mixed,Lunch Dinner,Vegan,None
+Stir-fry (chicken),220,23,18,7,Mixed,Lunch Dinner,Non-Vegetarian,None
+Curry (vegetable),180,4,22,9,Mixed,Lunch Dinner,Vegan,None
+Curry (chicken),270,23,15,13,Mixed,Lunch Dinner,Non-Vegetarian,None
+Pasta (tomato sauce),200,7,38,3,Mixed,Lunch Dinner,Vegan,Gluten
+Pasta (cream sauce),350,10,40,15,Mixed,Lunch Dinner,Vegetarian,Gluten Dairy
+Rice Bowl (vegetable),350,9,65,6,Mixed,Lunch Dinner,Vegan,None
+Rice Bowl (chicken),450,30,60,10,Mixed,Lunch Dinner,Non-Vegetarian,None
+Tacos (beef),210,12,20,10,Mixed,Lunch Dinner,Non-Vegetarian,Gluten
+Burrito (bean),380,15,65,5,Mixed,Lunch Dinner,Vegetarian,Gluten
+Sushi (vegetable),300,6,60,2,Mixed,Lunch Dinner,Vegan,None
+Sushi (fish),350,20,55,5,Mixed,Lunch Dinner,Non-Vegetarian,Seafood
+Tofu Stir-fry,220,15,22,9,Mixed,Lunch Dinner,Vegan,Soy
+Lentil Soup,120,9,20,1,Mixed,Lunch Dinner,Vegan,None
+Veggie Burger,240,12,30,8,Mixed,Lunch Dinner,Vegan,Gluten Soy
+Fish (white),100,20,0,2,Protein,Lunch Dinner,Non-Vegetarian,Seafood
+Pork Chop,200,25,0,12,Protein,Lunch Dinner,Non-Vegetarian,None
+Lamb,250,21,0,18,Protein,Lunch Dinner,Non-Vegetarian,None
+Beef Steak,270,28,0,17,Protein,Lunch Dinner,Non-Vegetarian,None
+Tempeh,195,19,9,11,Protein,Lunch Dinner,Vegan,Soy
+Seitan,370,75,14,2,Protein,Lunch Dinner,Vegan,Gluten
+Beyond Burger,250,20,8,18,Protein,Lunch Dinner,Vegan,Soy
+Impossible Burger,240,19,9,14,Protein,Lunch Dinner,Vegan,Soy
+Trail Mix,510,15,48,33,Mixed,Snack,Vegan,Nuts
+Fruit Salad,70,1,17,0,Fruits,Breakfast Snack,Vegan,None
+Yogurt Parfait,210,11,30,6,Mixed,Breakfast Snack,Vegetarian,Dairy
+Pita Bread,165,5.5,33,1.7,Grains,Lunch Dinner,Vegan,Gluten 

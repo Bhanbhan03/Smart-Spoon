@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Classifier</title>
+</head>
+<body>
+    <h1>Food Classifier</h1>
+    <form action="/predict" method="post" enctype="multipart/form-data">
+        <label for="file">Choose an image:</label>
+        <input type="file" name="file" id="file" accept="image/*" required>
+        <button type="submit">Submit</button>
+    </form>
+    
+    {% if filename %}
+        <h2>Uploaded Image:</h2>
+        <img src="{{ url_for('static', filename='uploads/' + filename) }}" width="300">
+        <h3>Predicted Food: {{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>
